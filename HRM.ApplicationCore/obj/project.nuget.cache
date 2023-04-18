@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7iHijlRdkLWMVdOYFaJHnKvOXgYIbH5q+qEE2jt3wYXD7dWTDX8LZdctvmItaIlMJ2ZdtBizvE/mDkTJOws0vw==",
+  "dgSpecHash": "rYsnSuUMN215T+OqhvLpjCGhA5+A9zzO4bliXS+1zavjM3mG58Z/wBgF2AaUawbQoUPKatpePxKsSeXAgejwcg==",
   "success": true,
   "projectFilePath": "/Users/ming/HRMProject/HRM.ApplicationCore/HRM.ApplicationCore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/ming/.nuget/packages/serilog/2.12.0/serilog.2.12.0.nupkg.sha512"
+  ],
   "logs": []
 }

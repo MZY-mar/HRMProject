@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6UR3bZ69SQG5asxp2Ayws1r4JiTZbpl62++Fcut4nl78FikN0FpsOKxZw3Ftf7h7aqQXfKxmBoxCMyvYBn40HQ==",
+  "dgSpecHash": "FFw5fRkdNPjDws4D9Z7IIfv4OES/GE66YYLBYV9oK+FXikJT1yi3VhpRmLCY79S7+HV8xPPFw++62bLEKGIkEQ==",
   "success": true,
   "projectFilePath": "/Users/ming/HRMProject/HRM.MVC/HRM.MVC.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,7 @@
     "/Users/ming/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "/Users/ming/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "/Users/ming/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
+    "/Users/ming/.nuget/packages/serilog/2.12.0/serilog.2.12.0.nupkg.sha512",
     "/Users/ming/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
     "/Users/ming/.nuget/packages/system.configuration.configurationmanager/6.0.1/system.configuration.configurationmanager.6.0.1.nupkg.sha512",
     "/Users/ming/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",

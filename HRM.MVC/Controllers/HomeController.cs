@@ -6,11 +6,13 @@ namespace HRM.MVC.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
+    private readonly ILogger<HomeController> _logger;//already in dependency injection
+      private readonly Serilog.Core.Logger log;
 
     public HomeController(ILogger<HomeController> logger)
     {
         _logger = logger;
+      //  log = new Serilog.LoggerConfiguration().WriteTo.Console().CreateLogger();
     }
 
     public IActionResult Index()
