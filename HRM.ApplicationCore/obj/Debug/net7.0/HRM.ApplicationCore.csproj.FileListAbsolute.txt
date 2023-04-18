@@ -1,0 +1,12 @@
+/Users/ming/HRMProject/HRM.ApplicationCore/bin/Debug/net7.0/HRM.ApplicationCore.deps.json
+/Users/ming/HRMProject/HRM.ApplicationCore/bin/Debug/net7.0/HRM.ApplicationCore.dll
+/Users/ming/HRMProject/HRM.ApplicationCore/bin/Debug/net7.0/HRM.ApplicationCore.pdb
+/Users/ming/HRMProject/HRM.ApplicationCore/obj/Debug/net7.0/HRM.ApplicationCore.csproj.AssemblyReference.cache
+/Users/ming/HRMProject/HRM.ApplicationCore/obj/Debug/net7.0/HRM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ming/HRMProject/HRM.ApplicationCore/obj/Debug/net7.0/HRM.ApplicationCore.AssemblyInfoInputs.cache
+/Users/ming/HRMProject/HRM.ApplicationCore/obj/Debug/net7.0/HRM.ApplicationCore.AssemblyInfo.cs
+/Users/ming/HRMProject/HRM.ApplicationCore/obj/Debug/net7.0/HRM.ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/ming/HRMProject/HRM.ApplicationCore/obj/Debug/net7.0/HRM.ApplicationCore.dll
+/Users/ming/HRMProject/HRM.ApplicationCore/obj/Debug/net7.0/refint/HRM.ApplicationCore.dll
+/Users/ming/HRMProject/HRM.ApplicationCore/obj/Debug/net7.0/HRM.ApplicationCore.pdb
+/Users/ming/HRMProject/HRM.ApplicationCore/obj/Debug/net7.0/ref/HRM.ApplicationCore.dll

@@ -1,0 +1,17 @@
+/Users/ming/HRMProject/HRM.Infrastructure/bin/Debug/net7.0/HRM.Infrastructure.deps.json
+/Users/ming/HRMProject/HRM.Infrastructure/bin/Debug/net7.0/HRM.Infrastructure.dll
+/Users/ming/HRMProject/HRM.Infrastructure/bin/Debug/net7.0/HRM.Infrastructure.pdb
+/Users/ming/HRMProject/HRM.Infrastructure/bin/Debug/net7.0/HRM.ApplicationCore.dll
+/Users/ming/HRMProject/HRM.Infrastructure/bin/Debug/net7.0/HRM.ApplicationCore.pdb
+/Users/ming/HRMProject/HRM.Infrastructure/obj/Debug/net7.0/HRM.Infrastructure.csproj.AssemblyReference.cache
+/Users/ming/HRMProject/HRM.Infrastructure/obj/Debug/net7.0/HRM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ming/HRMProject/HRM.Infrastructure/obj/Debug/net7.0/HRM.Infrastructure.AssemblyInfoInputs.cache
+/Users/ming/HRMProject/HRM.Infrastructure/obj/Debug/net7.0/HRM.Infrastructure.AssemblyInfo.cs
+/Users/ming/HRMProject/HRM.Infrastructure/obj/Debug/net7.0/HRM.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ming/HRMProject/HRM.Infrastructure/obj/Debug/net7.0/HRM.Infrastructure.csproj.CopyComplete
+/Users/ming/HRMProject/HRM.Infrastructure/obj/Debug/net7.0/HRM.Infrastructure.dll
+/Users/ming/HRMProject/HRM.Infrastructure/obj/Debug/net7.0/refint/HRM.Infrastructure.dll
+/Users/ming/HRMProject/HRM.Infrastructure/obj/Debug/net7.0/HRM.Infrastructure.pdb
+/Users/ming/HRMProject/HRM.Infrastructure/obj/Debug/net7.0/ref/HRM.Infrastructure.dll
+/Users/ming/HRMProject/HRM.Infrastructure/bin/Debug/net7.0/HRM.Infrastructure.runtimeconfig.json
+/Users/ming/HRMProject/HRM.Infrastructure/obj/Debug/net7.0/HRM.Infrastructure.genruntimeconfig.cache

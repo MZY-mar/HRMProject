@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRM.ApplicationCore", "HRM.ApplicationCore\HRM.ApplicationCore.csproj", "{9B87C2D3-4A85-4CFF-96BD-86A916935025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRM.Infrastructure", "HRM.Infrastructure\HRM.Infrastructure.csproj", "{D4960ACC-CD3C-4181-B170-B155E1D213D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRM.MVC", "HRM.MVC\HRM.MVC.csproj", "{7F11AE99-0FB5-465E-B04B-B1BA5CE36404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B87C2D3-4A85-4CFF-96BD-86A916935025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B87C2D3-4A85-4CFF-96BD-86A916935025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B87C2D3-4A85-4CFF-96BD-86A916935025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B87C2D3-4A85-4CFF-96BD-86A916935025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4960ACC-CD3C-4181-B170-B155E1D213D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4960ACC-CD3C-4181-B170-B155E1D213D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4960ACC-CD3C-4181-B170-B155E1D213D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4960ACC-CD3C-4181-B170-B155E1D213D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F11AE99-0FB5-465E-B04B-B1BA5CE36404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F11AE99-0FB5-465E-B04B-B1BA5CE36404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F11AE99-0FB5-465E-B04B-B1BA5CE36404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F11AE99-0FB5-465E-B04B-B1BA5CE36404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
